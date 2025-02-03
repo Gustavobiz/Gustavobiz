@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gustavo, seja bem vindo ao meu GitHub 👋
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavobiz&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavobiz&show_icons=true&theme=dracula)
 ## Tecnologias que uso no meu dia a dia 
 
 <div Style="display: inline_block"><br/>
