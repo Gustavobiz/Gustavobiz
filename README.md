@@ -24,8 +24,9 @@
    <img aling="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img aling="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
 
-
-   
-  Estudante de TI com ênfase em Engenharia de Software, proativo e comunicativo!
+## Sobre mim
+</div>
+  Sou um estudante de TI com ênfase em Engenharia de Software UFRN campus Natal, busco sempre ser proativo, comunicativo e resolver novos desafios!
 </div>
