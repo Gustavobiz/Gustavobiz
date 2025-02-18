@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gustavo, seja bem vindo ao meu GitHub 👋
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavobz&show_icons=true&theme=dracula)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavobiz&show_icons=true&theme=dracula)
 ## Ferramentas e Infraestrutura
 
 <img aling="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
